@@ -8,7 +8,7 @@
             "name": "g++ build and run active file",
             "type": "cppdbg",
             "request": "launch",
-            "program": "C:/Users/bbell/OneDrive/Desktop/cs305/assignment 1/main", // Path to your compiled executable
+            "program": "C:/Users/bbell/OneDrive/Desktop/cs305/assignment 1/main.cpp", // Path to your compiled executable
             "args": [],
             "stopAtEntry": false,
             "cwd": "C:/Users/bbell/OneDrive/Desktop/cs305/assignment 1",

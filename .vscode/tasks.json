@@ -9,7 +9,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "C:/Users/bbell/OneDrive/Desktop/cs305/assignment 1/main"
+                "C:/Users/bbell/OneDrive/Desktop/cs305/assignment 1/main.cpp"
             ],
             "options": {
                 "cwd": "C:/Users/bbell/OneDrive/Desktop/cs305/assignment 1"
