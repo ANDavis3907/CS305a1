@@ -8,10 +8,10 @@
             "name": "g++ build and run active file",
             "type": "cppdbg",
             "request": "launch",
-            "program": "C:/Users/bbell/OneDrive/Desktop/cs305/assignment 1/main.exe", // Path to your compiled executable
+            "program": "https://github.com/ANDavis3907/CS305a1/tree/main/CS305a1/main.cpp", // Path to your compiled executable
             "args": [],
             "stopAtEntry": false,
-            "cwd": "C:/Users/bbell/OneDrive/Desktop/cs305/assignment 1",
+            "cwd": "https://github.com/ANDavis3907/CS305a1/tree/main/CS305a1/main.cpp",
             "environment": [],
             "externalConsole": false, // Set to true if you want a separate console window
             "MIMode": "gdb",

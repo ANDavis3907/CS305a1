@@ -9,10 +9,10 @@
                 "-g",
                 "${file}",
                 "-o",
-                "C:/Users/bbell/OneDrive/Desktop/cs305/assignment 1/main.cpp"
+                "https://github.com/ANDavis3907/CS305a1/tree/main/CS305a1/main.cpp"
             ],
             "options": {
-                "cwd": "C:/Users/bbell/OneDrive/Desktop/cs305/assignment 1"
+                "cwd": "https://github.com/ANDavis3907/CS305a1/tree/main/CS305a1"
             },
             "problemMatcher": [
                 "$gcc"
